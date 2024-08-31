@@ -1,0 +1,46 @@
+.social-container {
+  padding: 25px 50px;
+}
+
+.social:hover {
+  transform: translateY(-2px);
+  color: black;
+}
+
+.youtube {
+  color: #eb3223;
+}
+
+.facebook {
+  color: #4968ad;
+}
+
+.twitter {
+  color: #49a1eb;
+}
+
+.instagram {
+  color: black;
+}
+
+.view1 {
+  background-image: url('./images/unnamed.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: "100%";
+  height: 60vh;
+  background-size: 100% 100%;
+}
+
+.custom {
+  padding: 25px;
+}
+
+.custom2 {
+  background-image: url("./images/unnamed.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 100vw;
+  height: 80vh;
+  background-size: 100% 100%;
+}
